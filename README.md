@@ -1,26 +1,5 @@
-# Zomato Clone App
+Road Accident Dashbpoard
 
-This is a Zomato clone application built with React and Redux. It allows users to browse favourite food, view their menus, and place orders. This project aims to replicate some of the key features of the Zomato platform.
+![Screenshot (1709)](https://github.com/CODEMHAMMER/Road-Accident-Dashboard-Project/assets/95966718/8493b8af-e591-4a25-a1cb-7fb401fd77f3)
 
-## Features
 
-- Browse food by price or cuisine.
-- View food details, including menus and user reviews.
-- Place and manage food orders.
-- Searching Food by their name
-- Authentication through Third party app by Auth0
-  
-## Demo
-
-Link:- https://zomato-food-app.netlify.app/
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/zomato-clone.git
-   cd zomato-clone
-   npm install
-   npm start
-   ```
